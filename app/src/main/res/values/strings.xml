@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LiveDataTest</string>
+    <string name="conta_title">Titulo</string>
+    <string name="conta_tipo">Tipo da Conta</string>
+    <string name="conta_amount">Valor</string>
+    <string name="conta_prefix_amount">R$</string>
+    <string name="conta_vencimento">Data de Vencimento</string>
+</resources>
